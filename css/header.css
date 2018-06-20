@@ -1,1 +1,19 @@
 @import "variables.css";
+
+.jumbotron {
+    background: linear-gradient(to bottom left, white, var(--teal), var(--blue), var(--darkBlue));
+    padding: 5vh 0;
+}
+
+.display-4 {
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+    font-size: 120px;
+}
+
+.lead {
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+    font-size: 40px;
+    padding: 0 0 0 180px;
+}

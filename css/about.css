@@ -1,1 +1,19 @@
 @import "variables.css";
+
+#aboutTitle {
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 0 0 0 22vw;
+    color: white;
+}
+
+#bio {
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 0 25vw 0 25vw;
+    font-size: 25px;
+}
+
+.aboutDiv {
+    background-color: var(--blue);
+    padding: 5vh 0 5vh 0;
+}

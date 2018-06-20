@@ -1,1 +1,6 @@
 @import "variables.css";
+
+.contactHeader {
+    /* margin: 5vh 0 0 0; */
+    font-family: 'Josefin Sans', sans-serif;
+}
