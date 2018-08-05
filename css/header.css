@@ -1,7 +1,7 @@
 @import "variables.css";
 
 .jumbotron {
-    background: linear-gradient(to bottom left, white, var(--teal), var(--blue), var(--darkBlue));
+    background: linear-gradient(to bottom left, var(--teal), var(--blue));
     padding: 5vh 0;
 }
 
